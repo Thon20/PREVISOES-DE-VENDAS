@@ -1,4 +1,4 @@
-# Previsão De Vendas Usando Series Temporais Com Python
+# Previsão De Vendas Usando Suavização Exponencial Com Python
 
 ## Pergunta de Negócio:
 Usando dados de vendas de 2023 seria possível prever o total de vendas em Janeiro de 2024?
